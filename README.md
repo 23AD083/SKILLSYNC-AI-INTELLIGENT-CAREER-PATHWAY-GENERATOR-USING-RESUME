@@ -15,6 +15,4 @@ The entire system follows a structured MERN architecture, with modular controlle
 Deployment uses Vercel for the frontend and Render/AWS for the backend, making the platform globally accessible and cloud-ready.
 <img width="1685" height="752" alt="image" src="https://github.com/user-attachments/assets/11eaea1e-d758-48ce-84b3-73f8adb20dd0" />
 <img width="1497" height="782" alt="image" src="https://github.com/user-attachments/assets/10fb1cb6-6291-4593-95e5-0f7fbb3f470b" />
-![Uploading image.png…]()
-
-
+<img width="1640" height="769" alt="image" src="https://github.com/user-attachments/assets/bfcbefb6-1af8-45e2-89f4-4e50595d34b8" />
